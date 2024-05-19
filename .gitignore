@@ -1,0 +1,27 @@
+# Node.js ignore files
+
+# Logs
+logs
+*.log
+
+# Node.js core files
+node_modules
+package-lock.json
+
+# Development files
+*.dev
+
+# Environment files
+.env
+
+# IDE files
+*.iml
+.idea
+.vscode
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other files
+coverage

@@ -2,7 +2,7 @@
 
 ## Api Routes
 
-- [Craft sMan Api Docs](#craft-sman-api-docs)
+- [E-commerce Api Docs](#E-commerce Api Docs)
   - [Api Routes](#api-routes)
   - [User](#user)
     - [Register](#register)
